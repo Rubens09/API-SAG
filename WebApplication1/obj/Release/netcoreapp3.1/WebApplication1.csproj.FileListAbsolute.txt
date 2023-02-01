@@ -1,0 +1,306 @@
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\USUARIO HP\Desktop\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\USUARIO HP\Pictures\Project\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\USUARIO HP\Downloads\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Cors.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\AdvancedStringBuilder.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\JavaScriptEngineSwitcher.Jurassic.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Jurassic.dll
+C:\Respaldo HP\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\AdvancedStringBuilder.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\JavaScriptEngineSwitcher.Jurassic.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Jurassic.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\DESARROLLO\Documents\Proyectos\Web API SAG\WebApiTM-Ruleta 2.1\WebApiTM-Ruleta 2.1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache

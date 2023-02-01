@@ -1,0 +1,38 @@
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Api SAG.exe
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Api SAG.deps.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Api SAG.runtimeconfig.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Api SAG.runtimeconfig.dev.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Api SAG.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Api SAG.pdb
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\AdvancedStringBuilder.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\JavaScriptEngineSwitcher.Jurassic.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Jurassic.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.AssemblyInfoInputs.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.AssemblyInfo.cs
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\staticwebassets\Api SAG.StaticWebAssets.Manifest.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.RazorTargetAssemblyInfo.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.csproj.CopyComplete
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.pdb
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\Api SAG.genruntimeconfig.cache
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll

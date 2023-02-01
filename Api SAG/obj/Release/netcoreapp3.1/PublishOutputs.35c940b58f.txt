@@ -1,0 +1,24 @@
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Api SAG.exe
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Api SAG.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Api SAG.deps.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Api SAG.runtimeconfig.json
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Api SAG.pdb
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\AdvancedStringBuilder.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\JavaScriptEngineSwitcher.Core.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\JavaScriptEngineSwitcher.Jurassic.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Jurassic.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\NodaTime.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Npgsql.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\PayPal.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\PayPalCoreSDK.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DESARROLLO\Documents\Proyectos\Api SAG 2\Api SAG\Api SAG\obj\Release\netcoreapp3.1\PubTmp\Out\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
